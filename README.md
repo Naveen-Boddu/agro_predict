@@ -26,5 +26,3 @@
   &copy; 2025 Smart Agriculture Research. All rights reserved.
 </footer>
 
-</body>
-</html>
